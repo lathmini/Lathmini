@@ -15,7 +15,7 @@
  </div>
 
  <div align="center"> 
-  <a href="lathminisumodya2001@gmail.com">
+  <a href="https://mail.google.com/mail/u/0/#inbox">
     <img src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/lathmini/" target="_blank">
@@ -30,7 +30,7 @@
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,firebase,mongodb,c,java,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,mongodb,c,java,mysql" /><br>
 </div>
 
 <br/>
