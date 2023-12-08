@@ -12,6 +12,8 @@
  
  🌱 I’m currently learning at **Srilanka Institute Of Information  Technology (SLIIT)**
 
+ 📫 How to reach me **lathminisumodya2001@gmail.com**
+
  </div>
 
  <div align="center"> 
